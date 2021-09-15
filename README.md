@@ -2,6 +2,4 @@
 
 ![](https://avatars.githubusercontent.com/u/60569015?v=4)
 
-https://github.com/d-prieto
-
-[Enlace al github del profesor](https://github.com/d-prieto)
+[ENLACE AL GITHUB DE NUESTRO PROFESOR](https://github.com/d-prieto)
