@@ -1,2 +1,2 @@
 # 1-Trimestre
-Hola que pasa? todo bien si? me alegro.
+Hola que pasa? Todo bien si? Me alegro.
