@@ -2,11 +2,11 @@
 
 ---
 
-#### [Toda la informacion necesaria sobre la Arquitectura de los ordenadores (D.A)](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
+#### [Dosier de Arquitectura de ordenadores (D.A.O)](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 ---
 
-### D.A Interior de un pc
+### D.A.O Interior de un pc
 
 ```
 
