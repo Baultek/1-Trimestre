@@ -63,12 +63,12 @@ Mars Gaming - Ratón Gaming 4000DPI = 959$
 
 ```
 
--Numeros Binarios-    -Decimal-
-0 - 0                  1000
-1 - 1                 -Binario-
-2 - 10                 061000 = 8
-3 - 11                -Hexadecimales-
-4 - 100                0x1000 2/ 16000
+-Numeros Binarios-
+0 - 0
+1 - 1
+2 - 10
+3 - 11
+4 - 100
 5 - 101
 6 - 110
 7 - 111
