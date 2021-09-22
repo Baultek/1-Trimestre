@@ -43,6 +43,12 @@ procesador.
 
 ---
 
+### Creacion de un ordenador
+
+
+
+---
+
 ### 1. Numeros Binarios
 
 ```
