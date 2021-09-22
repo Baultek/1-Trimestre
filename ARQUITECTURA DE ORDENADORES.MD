@@ -21,6 +21,10 @@ DC - Continous corrent
 -Microprocesadores: Son circuitos integrados que se conectan a la placa base, su funcion es procesar todos los
 datos y instrucciones con los millones de datos que posee.
 
+Memoria Cache: La memoria caché. Se trata de una pequeña memoria incluida en el propio procesador. Su función es 
+actuar como memoria intermedia  entre  la  memoria  RAM  y  el  núcleo  del  procesador, almacenando  los  datos
+y  las  instrucciones  con  los  que  va  a trabajar  el  procesador. 
+
 
 
 ```
