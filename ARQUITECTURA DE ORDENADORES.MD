@@ -25,7 +25,10 @@ Memoria Cache: La memoria caché. Se trata de una pequeña memoria incluida en e
 actuar como memoria intermedia  entre  la  memoria  RAM  y  el  núcleo  del  procesador, almacenando  los  datos
 y  las  instrucciones  con  los  que  va  a trabajar  el  procesador. 
 
-
+Memoria RAM: La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
+con  los  que  está  trabajando. Todo  lo  que  hay  en  ella  almacenado  se  borra  cuando  apagamos  o 
+reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
+que se acopla a la placa base a través de una ranura específica.
 
 ```
 
