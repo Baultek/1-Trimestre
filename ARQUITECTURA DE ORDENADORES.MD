@@ -2,17 +2,32 @@
 
 ---
 
-#### [Toda la informacion necesaria sobre la Arquitectura de los ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
+#### [Toda la informacion necesaria sobre la Arquitectura de los ordenadores (D.A)](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 ---
 
-## Indice
+### D.A Interior de un pc
 
-### 1.[Numeros Binarios](https://github.com/Baultek/1-Trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#arquitectura-de-ordenadores)
+```
+
+-Fuente de alimentacion: Transforma la correinte de AC a DC, algo necesario para los ordenadores.
+
+AC - DC
+AC - Alternative corrent
+DC - Continous corrent
+
+-Placa Base: Placa en la cual se situan diferentes componentes para que el ordenador funcione (base del ordenador)
+
+-Microprocesadores: Son circuitos integrados que se conectan a la placa base, su funcion es procesar todos los
+datos y instrucciones con los millones de datos que posee.
+
+
+
+```
 
 ---
 
-## 1 Numeros Binarios
+### 1. Numeros Binarios
 
 ```
 -Numeros Binarios-    -Decimal-
