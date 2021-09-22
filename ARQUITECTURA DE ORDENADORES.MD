@@ -40,6 +40,17 @@ Hz = Veces por segundo
 procesador.
 
 ```
+---
+
+### Teclados
+
+```
+
+Son dispositivos de entrada activados por pulsacion de teclas incorporado con un circuito integrado
+que se comunica con el PC.
+Conexión USB (Antiguamente PS/2).
+
+```
 
 ---
 
@@ -47,7 +58,7 @@ procesador.
 
 Se nos pide que construyamos un ordenador por menos de 1000 €
 
-Esta es mi propuesta (enlace a páginas)
+Esta es mi propuesta.
 
 ```
 
@@ -103,3 +114,4 @@ Unicode-tiene hasta 100.000 caracteres.
 #### [Pagina empleada para el ejercicio: Calcuworld.com](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 
 ---
+
