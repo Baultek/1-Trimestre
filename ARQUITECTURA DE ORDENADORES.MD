@@ -45,6 +45,10 @@ procesador.
 
 ### Creacion de un ordenador
 
+```
+
+CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
+
 
 
 ---
