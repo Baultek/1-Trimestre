@@ -4,6 +4,8 @@
 
 #### [Toda la informacion necesaria sobre la Arquitectura de los ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
+---
+
 ## Indice
 
 ### 1.[Numeros Binarios](https://github.com/Baultek/1-Trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#arquitectura-de-ordenadores)
