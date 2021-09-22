@@ -68,7 +68,7 @@ RAM - 32 GB Corasair Vengeance DDR4 2666 MHz (2x16 GB)
 Targeta Grafica - 4 GB Nvidia Geforce GTX 150 Ti - DVI - HDMI - DP
 Disco Duro - 1TB, Segata Barracuda HDD SATA-III, 6 GB/s, 7200 RPM, 64 MG de caché
 Empire Gaming - Teclado Gamer K300 QWERY
-Mars Gaming - Ratón Gaming 4000DPI = 959$
+Mars Gaming - Ratón Gaming 4000DPI = 959€
 
 ```
 
