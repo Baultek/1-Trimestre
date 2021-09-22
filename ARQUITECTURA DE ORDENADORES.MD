@@ -45,6 +45,10 @@ procesador.
 
 ### Creacion de un ordenador
 
+Se nos pide que construyamos un ordenador por menos de 1000 €
+
+Esta es mi propuesta (enlace a páginas)
+
 ```
 
 CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
