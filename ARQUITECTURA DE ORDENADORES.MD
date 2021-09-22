@@ -21,14 +21,23 @@ DC - Continous corrent
 -Microprocesadores: Son circuitos integrados que se conectan a la placa base, su funcion es procesar todos los
 datos y instrucciones con los millones de datos que posee.
 
-Memoria Cache: La memoria caché. Se trata de una pequeña memoria incluida en el propio procesador. Su función es 
-actuar como memoria intermedia  entre  la  memoria  RAM  y  el  núcleo  del  procesador, almacenando  los  datos
-y  las  instrucciones  con  los  que  va  a trabajar  el  procesador. 
+-Memoria Cache: La memoria caché. Se trata de una pequeña memoria incluida en el propio procesador. Su función es 
+actuar como memoria intermedia entre la memoria RAM y el núcleo del procesador, almacenando los datos
+y las instrucciones con los que va a trabajar el procesador. 
 
-Memoria RAM: La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
-con  los  que  está  trabajando. Todo  lo  que  hay  en  ella  almacenado  se  borra  cuando  apagamos  o 
+-Memoria RAM: La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas 
+con los que está trabajando. Todo lo que hay en ella almacenado se borra cuando apagamos o
 reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
 que se acopla a la placa base a través de una ranura específica.
+
+DDR - 2 Paquetes por ciclo
+DDR2 - 4 paquetes por ciclo
+DDR3 - 8 paquetes por ciclo
+
+Hz = Veces por segundo
+
+-Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
+procesador.
 
 ```
 
@@ -37,6 +46,7 @@ que se acopla a la placa base a través de una ranura específica.
 ### 1. Numeros Binarios
 
 ```
+
 -Numeros Binarios-    -Decimal-
 0 - 0                  1000
 1 - 1                 -Binario-
@@ -57,17 +67,19 @@ A - 011000
 a - 001010
 
 Unicode-tiene hasta 100.000 caracteres.
-```
 
+```
 
 ### 1.1 Ejercicios Conversion
 
 ```
+
 ¿Cuanto es en decimal la siguiente cifra?
 
 11100110011001 = 14745
 
 ```
+
 #### [Pagina empleada para el ejercicio: Calcuworld.com](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 
-
+---
