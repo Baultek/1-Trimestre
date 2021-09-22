@@ -20,6 +20,6 @@ Me llamo Juan Manuel (JM) y tengo 19 años, siempre he sido de Castelldefels y m
 
 ---
 
-### [Clase de Binario](https://github.com/Baultek/1-Trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#arquitectura-de-ordenadores)
+### [Clase de Binario](https://github.com/Baultek/1-Trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#1-numeros-binarios)
 
 ---
