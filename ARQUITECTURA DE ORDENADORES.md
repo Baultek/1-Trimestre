@@ -43,7 +43,7 @@ procesador.
 
 ---
 
-## Targeta Gráfica
+### Targeta Gráfica
 
 ¿Que son? 
 
@@ -94,11 +94,11 @@ Interfaz de tarjeta de gráficos: PCI-E
 
 ```
 
-[Información de mi tarjeta gráfica](https://www.amazon.es/Gigabyte-GeForce-GTX-1050-Ti/dp/B01M6ZANMP/ref=sr_1_1?adgrpid=56936780355&dchild=1&gclid=CjwKCAjwndCKBhAkEiwAgSDKQbPk_mtc-GXviXvD9gkjKoS3cAMy5eBILjnCaEdLvHTvjJEcvS7IfBoCXh4QAvD_BwE&hvadid=275307813522&hvdev=c&hvlocphy=1005427&hvnetw=g&hvqmt=b&hvrand=15068226364243372167&hvtargid=kwd-295345307013&hydadcr=28888_1774505&keywords=nvidia+gtx+1050ti&qid=1632901996&qsid=261-5205627-7357036&sr=8-1&sres=B01M6ZANMP%2CB078ZT646T%2CB01N683IAQ%2CB01MFBKRI5%2CB07QS5X6ZF%2CB01M4KGTNI%2CB01M8M5T4T%2CB01N33SOXU%2CB09GVFT5GJ%2CB09GXDHK44%2CB01M2ZC61B%2CB0719CR59P%2CB08RSFMVRX%2CB074Q4QF4J%2CB08SLPWX5F%2CB07CQ6Q52H%2CB09GJQJRK1%2CB08F2KZM8X%2CB0716JTSRW%2CB09GF9STJ8&srpt=VIDEO_CARD)
+#### [Información de mi tarjeta gráfica](https://www.amazon.es/Gigabyte-GeForce-GTX-1050-Ti/dp/B01M6ZANMP/ref=sr_1_1?adgrpid=56936780355&dchild=1&gclid=CjwKCAjwndCKBhAkEiwAgSDKQbPk_mtc-GXviXvD9gkjKoS3cAMy5eBILjnCaEdLvHTvjJEcvS7IfBoCXh4QAvD_BwE&hvadid=275307813522&hvdev=c&hvlocphy=1005427&hvnetw=g&hvqmt=b&hvrand=15068226364243372167&hvtargid=kwd-295345307013&hydadcr=28888_1774505&keywords=nvidia+gtx+1050ti&qid=1632901996&qsid=261-5205627-7357036&sr=8-1&sres=B01M6ZANMP%2CB078ZT646T%2CB01N683IAQ%2CB01MFBKRI5%2CB07QS5X6ZF%2CB01M4KGTNI%2CB01M8M5T4T%2CB01N33SOXU%2CB09GVFT5GJ%2CB09GXDHK44%2CB01M2ZC61B%2CB0719CR59P%2CB08RSFMVRX%2CB074Q4QF4J%2CB08SLPWX5F%2CB07CQ6Q52H%2CB09GJQJRK1%2CB08F2KZM8X%2CB0716JTSRW%2CB09GF9STJ8&srpt=VIDEO_CARD)
 
 ---
 
-## Disco duro
+### Disco duro
 
 ¿Que son? 
 
@@ -123,7 +123,7 @@ Tendra 209715200 Sectores
 
 ---
 
-## Teclados
+### Teclados
 
 ¿Que son?
 
@@ -137,7 +137,7 @@ Conexión USB (Antiguamente PS/2).
 
 ---
 
-## Creacion de un ordenador
+### Creacion de un ordenador
 
 ```
 
@@ -153,7 +153,7 @@ Mars Gaming - Ratón Gaming 4000DPI = 959€
 
 ---
 
-## 1. Numeros Binarios
+### 1. Numeros Binarios
 
 ```
 
