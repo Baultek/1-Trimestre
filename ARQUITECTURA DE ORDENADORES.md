@@ -54,15 +54,15 @@ rápido que AGP.
 
 ---
 
-### Targeta Grafica
+### Targeta Gráfica
 
 ¿Que son? 
 
 ```
 
-Es una tarjeta que se conecta a la placa madre tarjeta gráfica es convertir la información procesada 
-por el ordenador, o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en 
-forma de imagen en la pantalla. 
+Es una tarjeta que se conecta a la placa madre y su funcion principal es convertir la información
+procesada por el ordenador, o la propia tarjeta, en una señal que pueda entender el monitor, para
+mostrarla en forma de imagen en la pantalla. 
 
 ```
 
@@ -72,6 +72,23 @@ forma de imagen en la pantalla.
 
 El procesador gráfico o GPU es el encargado de procesar toda la información gráfica, realizando 
 los cálculos necesarios para obtener la imagen final.
+
+```
+
+¿Que es la interfaz de la tarjeta gráfica?
+
+```
+
+La interfaz de la targeta grafica es la conexión a la placa base, Existen dos tipos de interfaz: 
+
+AGP 8X: Es la última versión del bus AGP, que se caracteriza por un ancho de banda 
+(por ejemplo de 2 GB/s) en el sentido placa base -> tarjeta y otro (por ejemplo de 266 
+MB/s) en el sentido inverso (en el ejemplo, 2,26 GB/s en total).
+
+PCI-Express 16X: Sistema de bus para tarjetas gráficas, cuyo ancho de banda es de 4 
+GB/s en ambos sentidos (8 GB/s en total). El acceso a la memoria RAM de la placa base 
+está gestionado por hardware desde el propio procesador gráfico. Ahora mismo es más 
+rápido que AGP. 
 
 ```
 
@@ -92,7 +109,22 @@ Interfaz de tarjeta de gráficos: PCI-E
 
 ---
 
+### Disco duro
+
+¿Que son? 
+
+```
+
+Es un dispositivo de almacenamiento permanente, donde se guardan los 
+archivos del sistema operativo, los programas y los archivos del propio usuario. 
+
+```
+
+---
+
 ### Teclados
+
+¿Que son?
 
 ```
 
