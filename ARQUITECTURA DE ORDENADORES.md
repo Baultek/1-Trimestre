@@ -43,7 +43,7 @@ procesador.
 
 ---
 
-### Targeta Gráfica
+## Targeta Gráfica
 
 ¿Que son? 
 
@@ -98,7 +98,7 @@ Interfaz de tarjeta de gráficos: PCI-E
 
 ---
 
-### Disco duro
+## Disco duro
 
 ¿Que son? 
 
@@ -109,9 +109,21 @@ archivos del sistema operativo, los programas y los archivos del propio usuario.
 
 ```
 
+### Formateo y sectores
+
+```
+
+Tengo un disco duro de 100 Gb ¿Cuantos sectores tiene si cada sector es de 512 bytes?
+
+100Gb x 1024 = 102400Mb x 1024 = 104857600Kb x 1024 = 107374182400Bytes : 512 = 209715200 Sectores
+
+Tendra 209715200 Sectores
+
+```
+
 ---
 
-### Teclados
+## Teclados
 
 ¿Que son?
 
@@ -125,7 +137,7 @@ Conexión USB (Antiguamente PS/2).
 
 ---
 
-### Creacion de un ordenador
+## Creacion de un ordenador
 
 ```
 
@@ -141,7 +153,7 @@ Mars Gaming - Ratón Gaming 4000DPI = 959€
 
 ---
 
-### 1. Numeros Binarios
+## 1. Numeros Binarios
 
 ```
 
