@@ -39,17 +39,6 @@ Hz = Veces por segundo
 -Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
 procesador.
 
--Interfaz de la targeta grafica (conexión a la placa base): Existen dos tipos de interfaz: 
-
-AGP 8X: Es la última versión del bus AGP, que se caracteriza por un ancho de banda 
-(por ejemplo de 2 GB/s) en el sentido placa base -> tarjeta y otro (por ejemplo de 266 
-MB/s) en el sentido inverso (en el ejemplo, 2,26 GB/s en total).
-
-PCI-Express 16X: Sistema de bus para tarjetas gráficas, cuyo ancho de banda es de 4 
-GB/s en ambos sentidos (8 GB/s en total). El acceso a la memoria RAM de la placa base 
-está gestionado por hardware desde el propio procesador gráfico. Ahora mismo es más 
-rápido que AGP. 
-
 ```
 
 ---
