@@ -28,3 +28,16 @@ conexiones y fuimos conectando los demas componentes a la placa madre al acabar 
 todo y listo.
 
 ```
+
+---
+
+### Que hemos aprendido y informacion de componentes
+
+```
+
+Hemos aprendido a diferenciar diferentes componentes del interior del pc como la placa madre,
+la fuente de alimentacion o el disco duro entre otras mas, tambien hemos analizado de cerca
+todas las conexiones que tienen estos componentes, y lo que contiene la placa madre.Tambien
+hemos aprendido la posicion de cada componente y el lugar en el que iban.
+
+```
