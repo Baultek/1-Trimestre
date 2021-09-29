@@ -1,7 +1,7 @@
 
 # Montaje de del ordenador
 
-## Documentacion
+### Documentacion
 
 ---
 
@@ -46,7 +46,7 @@ hemos aprendido la posicion de cada componente y el lugar en el que iban.
 
 ---
 
-## Investigacion
+### Investigacion
 
 ---
 
