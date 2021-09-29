@@ -1,6 +1,8 @@
 
 # Montaje de del ordenador
 
+## Documentacion
+
 ---
 
 ### Equipo
@@ -39,5 +41,29 @@ Hemos aprendido a diferenciar diferentes componentes del interior del pc como la
 la fuente de alimentacion o el disco duro entre otras mas, tambien hemos analizado de cerca
 todas las conexiones que tienen estos componentes, y lo que contiene la placa madre.Tambien
 hemos aprendido la posicion de cada componente y el lugar en el que iban.
+
+```
+
+---
+
+## Investigacion
+
+---
+
+### ¿De que año es el ordenador?
+
+```
+
+No podemos saber la fecha exacta del pc, pero podemos saber que no es tan antiguo por los
+componentes modernos que tiene, aproximadamente podemos decir que el pc seria del 2010.
+
+```
+
+### ¿Funcionaria el ordenador? ¿Le faltan piezas?
+
+```
+
+El ordenador no podria funcionar porque le faltan componentes essenciales como seria una
+memoria RAM.
 
 ```
