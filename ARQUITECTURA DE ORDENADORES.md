@@ -39,16 +39,6 @@ Hz = Veces por segundo
 -Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
 procesador.
 
--Targeta grafica: La función básica de una tarjeta gráfica es convertir la información procesada por el ordenador, 
-o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
-en la pantalla. 
-
--Procesador gráfico: Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
-para obtener la imagen final.
-
--Memoria gráfica: Es una memoria de tipo RAM en la que se almacena gran parte de la 
-información gráfica que debe procesar la GPU.
-
 -Interfaz de la targeta grafica (conexión a la placa base): Existen dos tipos de interfaz: 
 
 AGP 8X: Es la última versión del bus AGP, que se caracteriza por un ancho de banda 
@@ -61,6 +51,45 @@ está gestionado por hardware desde el propio procesador gráfico. Ahora mismo e
 rápido que AGP. 
 
 ```
+
+---
+
+### Targeta Grafica
+
+¿Que son? 
+
+```
+
+Es una tarjeta que se conecta a la placa madre tarjeta gráfica es convertir la información procesada 
+por el ordenador, o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en 
+forma de imagen en la pantalla. 
+
+```
+
+¿Que es una GPU?
+
+```
+
+El procesador gráfico o GPU es el encargado de procesar toda la información gráfica, realizando 
+los cálculos necesarios para obtener la imagen final.
+
+```
+
+¿Que caracteristicas tiene la targeta grafica que escoji?
+
+```
+
+Interfaz de salida de vídeo: HDMI
+Tipo de RAM de gráficos: PC2-4200
+Tamaño de la RAM de gráficos: 4
+Velocidad de reloj de memoria: 7008 MHz
+Velocidad del reloj de GPU: 1316 MHz
+Interfaz de tarjeta de gráficos: PCI-E
+
+```
+
+[Información de mi tarjeta gráfica](https://www.amazon.es/Gigabyte-GeForce-GTX-1050-Ti/dp/B01M6ZANMP/ref=sr_1_1?adgrpid=56936780355&dchild=1&gclid=CjwKCAjwndCKBhAkEiwAgSDKQbPk_mtc-GXviXvD9gkjKoS3cAMy5eBILjnCaEdLvHTvjJEcvS7IfBoCXh4QAvD_BwE&hvadid=275307813522&hvdev=c&hvlocphy=1005427&hvnetw=g&hvqmt=b&hvrand=15068226364243372167&hvtargid=kwd-295345307013&hydadcr=28888_1774505&keywords=nvidia+gtx+1050ti&qid=1632901996&qsid=261-5205627-7357036&sr=8-1&sres=B01M6ZANMP%2CB078ZT646T%2CB01N683IAQ%2CB01MFBKRI5%2CB07QS5X6ZF%2CB01M4KGTNI%2CB01M8M5T4T%2CB01N33SOXU%2CB09GVFT5GJ%2CB09GXDHK44%2CB01M2ZC61B%2CB0719CR59P%2CB08RSFMVRX%2CB074Q4QF4J%2CB08SLPWX5F%2CB07CQ6Q52H%2CB09GJQJRK1%2CB08F2KZM8X%2CB0716JTSRW%2CB09GF9STJ8&srpt=VIDEO_CARD)
+
 ---
 
 ### Teclados
@@ -82,7 +111,7 @@ Conexión USB (Antiguamente PS/2).
 CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
 Placa Base - Asus Micro ATX, DDR4, USB 3.2, SATA 6 GB
 RAM - 32 GB Corasair Vengeance DDR4 2666 MHz (2x16 GB)
-Targeta Grafica - 4 GB Nvidia Geforce GTX 150 Ti - DVI - HDMI - DP
+Gigabyte GeForce GTX 1050 Ti D5 4G GV-N105TD5-4GD 
 Disco Duro - 1TB, Segata Barracuda HDD SATA-III, 6 GB/s, 7200 RPM, 64 MG de caché
 Empire Gaming - Teclado Gamer K300 QWERY
 Mars Gaming - Ratón Gaming 4000DPI = 959€
