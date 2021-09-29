@@ -39,6 +39,27 @@ Hz = Veces por segundo
 -Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
 procesador.
 
+-Targeta grafica: La función básica de una tarjeta gráfica es convertir la información procesada por el ordenador, 
+o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
+en la pantalla. 
+
+-Procesador gráfico: Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
+para obtener la imagen final.
+
+-Memoria gráfica: Es una memoria de tipo RAM en la que se almacena gran parte de la 
+información gráfica que debe procesar la GPU.
+
+-Interfaz de la targeta grafica (conexión a la placa base): Existen dos tipos de interfaz: 
+
+AGP 8X: Es la última versión del bus AGP, que se caracteriza por un ancho de banda 
+(por ejemplo de 2 GB/s) en el sentido placa base -> tarjeta y otro (por ejemplo de 266 
+MB/s) en el sentido inverso (en el ejemplo, 2,26 GB/s en total).
+
+PCI-Express 16X: Sistema de bus para tarjetas gráficas, cuyo ancho de banda es de 4 
+GB/s en ambos sentidos (8 GB/s en total). El acceso a la memoria RAM de la placa base 
+está gestionado por hardware desde el propio procesador gráfico. Ahora mismo es más 
+rápido que AGP. 
+
 ```
 ---
 
@@ -55,10 +76,6 @@ Conexión USB (Antiguamente PS/2).
 ---
 
 ### Creacion de un ordenador
-
-Se nos pide que construyamos un ordenador por menos de 1000 €
-
-Esta es mi propuesta.
 
 ```
 
