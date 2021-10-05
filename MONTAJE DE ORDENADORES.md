@@ -68,18 +68,37 @@ memoria RAM.
 
 ```
 
+---
+
 ### Foto 1.
+
+En este momento estabamos observando por que lugar empezar a desmontar el pc.
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092041_798.jpg)
 
+---
+
 ### Foto 2.
+
+Aqui comenzamos a desmonatar el pc comenzando por los componentes conectados a la placa base y
+asi facilitar su retirada.
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092051_348.jpg)
 
+---
+
 ### Foto 3.
+
+En esta foto mostramos la informacion general de la fuente de alimentacion.
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092053_615.jpg)
 
+---
+
 ### Foto 4.
 
+Estos serian todos los componentes retirados del pc.
+
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092114_668.jpg)
+
+---
