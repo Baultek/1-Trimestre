@@ -68,4 +68,18 @@ memoria RAM.
 
 ```
 
-![](https://we.tl/t-zwS8xOOLvm)
+### Foto 1.
+
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092041_798.jpg)
+
+### Foto 2.
+
+![]()
+
+### Foto 3.
+
+![]()
+
+### Foto 4.
+
+![]()
