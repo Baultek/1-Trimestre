@@ -67,3 +67,5 @@ El ordenador no podria funcionar porque le faltan componentes essenciales como s
 memoria RAM.
 
 ```
+
+![](https://we.tl/t-zwS8xOOLvm)
