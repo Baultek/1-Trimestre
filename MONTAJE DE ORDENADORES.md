@@ -97,7 +97,9 @@ En esta foto mostramos la informacion general de la fuente de alimentacion.
 
 ### Foto 4.
 
-Estos serian todos los componentes retirados del pc.
+Estos serian todos los componentes retirados del pc.Abajo a la derecha tenemos la placa madre, a su lado esta el disco duro,
+arriba tendriamos un lector de targetas, mas arriba estaria la fuente de alimentacion y a la izquierda estaria la carcasa
+principal con el boton on/off.
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092114_668.jpg)
 
