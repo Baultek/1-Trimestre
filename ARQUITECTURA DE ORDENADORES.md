@@ -180,7 +180,7 @@ Unicode-tiene hasta 100.000 caracteres.
 
 ```
 
-### 1.1 Ejercicios Conversion
+#### 1.1 Ejercicios Conversion
 
 ```
 
@@ -194,3 +194,14 @@ Unicode-tiene hasta 100.000 caracteres.
 
 ---
 
+### Internet y redes
+
+#### Red Local - LAN
+
+```
+
+LAN - Local Area Network
+
+```
+
+---
