@@ -122,6 +122,15 @@ Tipo - estado solido
 
 ```
 
+```
+
+40€ - Toshiba Canvio Basics - Disco duro externo portátil USB 3.0 de 2.5 pulgadas (1 TB)
+80€ - Seagate IronWolf, 2 TB, NAS, Disco duro interno, HDD, CMR 3,5" SATA 6 GB/s, 5.900 RPM, caché de 64 MB 
+300€ - Seagate ST16000NM001G Exos X16 - Disco duro interno de 3,5" Enterprise HDD, SATA 3.0 (6GB/S)
+7200 rpm, 256 MB de caché, 4,16 ms, OEM 
+
+```
+
 #### [Paginas visitadas](https://www.amazon.es/Seagate-STST3000DM007%203000DMZ07-Disco-Interno-Plateado/dp/B07H2GY8ZS)
 
 ### Formateo y sectores
