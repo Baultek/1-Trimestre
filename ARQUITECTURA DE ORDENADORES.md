@@ -176,7 +176,7 @@ ASCIL (antiguo) tiene 755 valores y caracteres latinos (no tiene R)
 A - 011000
 a - 001010
 
-Unicode-tiene hasta 100.000 caracteres.
+Unicode - Tiene hasta 100.000 caracteres.
 
 ```
 
@@ -201,6 +201,12 @@ Unicode-tiene hasta 100.000 caracteres.
 ```
 
 LAN - Local Area Network
+
+Ruta - 255.255.0.203/fotos bonitas/IMG 8066.JPG
+
+Ataque DDOS - Pedir a la vez demasiadas cosas desde un mismo servidor.
+
+Stream - Corriente de agua 
 
 ```
 
