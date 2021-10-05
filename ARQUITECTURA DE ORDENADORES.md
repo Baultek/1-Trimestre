@@ -122,6 +122,8 @@ Tipo - estado solido
 
 ```
 
+#### [Pagina visitada](https://www.amazon.es/Seagate-STST3000DM007%203000DMZ07-Disco-Interno-Plateado/dp/B07H2GY8ZS)
+
 ```
 
 40€ - Toshiba Canvio Basics - Disco duro externo portátil USB 3.0 de 2.5 pulgadas (1 TB)
@@ -131,7 +133,7 @@ Tipo - estado solido
 
 ```
 
-#### [Paginas visitadas](https://www.amazon.es/Seagate-STST3000DM007%203000DMZ07-Disco-Interno-Plateado/dp/B07H2GY8ZS)
+#### [Disco de 40€](https://www.amazon.es/Toshiba-Canvio-Basics-port%C3%A1til-Pulgadas/dp/B07997KKSK/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=disco+duro&qid=1633423777&qsid=258-7041940-2006909&refinements=p_36%3A1323856031&rnid=1323854031&s=computers&sr=1-4&sres=B06VVS7S94%2CB07997KKSK%2CB07BCP3PYL%2CB01LY3Q201%2CB09G2HCMYX%2CB08HC5KS86%2CB09F8YQK91%2CB09D3K1HP2%2CB09F3JNPPJ%2CB091FS79T8%2CB0088PUEPK%2CB09DYS7MTT%2CB09D3Q9RLN%2CB07DQ5ZH1D%2CB09F3FQWC6%2CB081VGBGP5%2CB01F9G43WU%2CB08KWS51BZ%2CB07VTWX8MN%2CB07FFVYDF3&srpt=COMPUTER_DRIVE_OR_STORAGE)[-Disco de 80€](https://www.amazon.es/dp/B07H2GY8ZV/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07H2GY8ZV&pd_rd_w=uapvL&pf_rd_p=c0b61f01-0654-4e3b-b4b8-cae46441c66c&pd_rd_wg=wOak5&pf_rd_r=3KF4ZQAGKWY6S2KVSMB8&pd_rd_r=e406d241-6986-429e-8a1e-e50a1022846d&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMEpWSzNHVUdMTjA1JmVuY3J5cHRlZElkPUExMDEwNTIwM0JYSlVQVzVCV0pVTCZlbmNyeXB0ZWRBZElkPUEwODgwNDcyMzRFREk1MTlUVVVUUiZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)[-Disco de 300€](https://www.amazon.es/Seagate-Exos-X16-16000-Serial/dp/B07SPFPKF4/ref=sr_1_28?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=disco+duro&qid=1633423878&refinements=p_36%3A1323859031&rnid=1323854031&s=computers&sr=1-28)
 
 ### Formateo y sectores
 
