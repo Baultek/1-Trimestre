@@ -81,7 +81,7 @@ rápido que AGP.
 
 ```
 
-¿Que caracteristicas tiene la targeta grafica que escoji?
+¿Que caracteristicas tiene mi targeta grafica?
 
 ```
 
@@ -106,6 +106,14 @@ Interfaz de tarjeta de gráficos: PCI-E
 
 Es un dispositivo de almacenamiento permanente, donde se guardan los 
 archivos del sistema operativo, los programas y los archivos del propio usuario. 
+
+```
+
+¿Que caracteristicas tiene mi disco duro?
+
+```
+
+
 
 ```
 
@@ -145,7 +153,7 @@ CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
 Placa Base - Asus Micro ATX, DDR4, USB 3.2, SATA 6 GB
 RAM - 32 GB Corasair Vengeance DDR4 2666 MHz (2x16 GB)
 Gigabyte GeForce GTX 1050 Ti D5 4G GV-N105TD5-4GD 
-Disco Duro - 1TB, Segata Barracuda HDD SATA-III, 6 GB/s, 7200 RPM, 64 MG de caché
+Disco Duro - Seagate BarraCuda, 3 TB, Disco duro interno, HDD, 3,5", SATA 6 GB/s, 7200 RPM, caché de 256 MB 
 Empire Gaming - Teclado Gamer K300 QWERY
 Mars Gaming - Ratón Gaming 4000DPI = 959€
 
