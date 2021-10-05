@@ -74,12 +74,12 @@ memoria RAM.
 
 ### Foto 2.
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092051_348.jpg)
 
 ### Foto 3.
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092053_615.jpg)
 
 ### Foto 4.
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092114_668.jpg)
