@@ -39,6 +39,14 @@ Hz = Veces por segundo
 -Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
 procesador.
 
+-Para pasar de Bit a Byte dividimos entre 8
+-Para pasar de Byte a Kb dividimos entre 1024
+-Para pasar de Kb a Mb dividimos entre 1024
+-Para pasar de Mb a Gb dividimos entre 1024
+-Para pasar de Gb a Tb dividimos entre 1024
+-La velocidad de transmision es igual a la frecuencia de transmision del bus multiplicado por el
+numero de bits del paquete.El numero de bits por paquete depende de cuantas conecxiones tenga.
+
 ```
 
 ---
