@@ -1,14 +1,12 @@
-# Bienvenidos al 1 Trimestre
-
----
+# 1. Trimestre
 
 ## Texto de presentacion
 
-Me llamo Juan Manuel (JM) y tengo 19 años, siempre he sido de Castelldefels y me gusta jugar a videojuegos y ir en bici.
+##### Me llamo Juan Manuel (JM) y tengo 19 años, siempre he sido de Castelldefels y me gusta jugar a videojuegos y ir en bici.
 
 ---
 
-## Informacion del profesor
+### Informacion del profesor
 
 ### [Enlace al Github del profesor](https://github.com/d-prieto)
 
