@@ -101,6 +101,6 @@ Estos serian todos los componentes retirados del pc.Abajo a la derecha tenemos l
 arriba tendriamos un lector de targetas, mas arriba estaria la fuente de alimentacion y a la izquierda estaria la carcasa
 principal con el boton on/off.
 
-![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/montaje%20ordenadores/IMG_20211005_092114_668.jpg)
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/IMG_20211005_092114_668.jpg)
 
 ---
