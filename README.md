@@ -1,12 +1,14 @@
 # 1. Trimestre
 
-## Texto de presentacion
+### Presentación
 
 ##### Me llamo Juan Manuel (JM) y tengo 19 años, siempre he sido de Castelldefels y me gusta jugar a videojuegos e ir en bici.
 
 ---
 
-### [Enlace al Github del profesor](https://github.com/d-prieto)
+### Info del profesor
+
+#### [Enlace al Github del profesor](https://github.com/d-prieto)
 
 ---
 
