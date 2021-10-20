@@ -64,7 +64,7 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 #### - Leon Rosa Bonheur -
 
-![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/0468ba4c-65e8-436e-a267-f76147971ea0_832.jpg)
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/4c000ab6-2624-44c7-bbe1-75e5bbbc22a5.jpg)
 
 [Museo del prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
 
