@@ -54,4 +54,4 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 #### - PNG -
 
-![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/kisspng-japan-samurai-warrior-ru014dnin-shu014dgun-samurai-png-photos-5a741bc67cd846.0329439615175587265114.png)
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2012-09-46.png)
