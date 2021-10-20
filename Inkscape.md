@@ -104,7 +104,7 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ```
 
-![](
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/4c000ab6-2624-44c7-bbe1-75e5bbbc22a5.jpg)
 
 ---
 
