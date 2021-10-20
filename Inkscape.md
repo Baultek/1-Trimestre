@@ -48,16 +48,24 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2011-47-44.png)
 
+---
+
 #### - GIF -
 
 ![](https://media.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif)
 
+---
+
 #### - PNG -
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2012-09-46.png)
+
+---
 
 #### - Leon Rosa Bonheur -
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/0468ba4c-65e8-436e-a267-f76147971ea0_832.jpg)
 
 [Museo del prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
+
+---
