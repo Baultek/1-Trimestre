@@ -44,25 +44,25 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 ---
 
-#### - JPG -
+### - JPG -
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2011-47-44.png)
 
 ---
 
-#### - GIF -
+### - GIF -
 
 ![](https://media.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif)
 
 ---
 
-#### - PNG -
+### - PNG -
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2012-09-46.png)
 
 ---
 
-#### - Leon Rosa Bonheur -
+### - Leon Rosa Bonheur -
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/4c000ab6-2624-44c7-bbe1-75e5bbbc22a5.jpg)
 
