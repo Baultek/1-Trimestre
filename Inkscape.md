@@ -41,3 +41,12 @@ concreta entre A y B, las lineas horizontales suelen ser:
 ```
 
 ---
+
+#### - PNJ -
+
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2011-47-44.png)
+
+#### - GIF -
+
+![](https://media.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif)
+
