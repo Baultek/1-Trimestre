@@ -69,3 +69,38 @@ concreta entre A y B, las lineas horizontales suelen ser:
 [Museo del prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
 
 ---
+
+```
+
+Archivo: propiedades del documento.
+
+Tamaño personalizado ancho 600 alto 1000 (poner en px)
+
+Añadimos la imagen de internet
+
+Archivo - importar
+
+Arrastrar la imagen
+
+Copiar y pegar
+
+Clic derecho en la imagen - vectorizar mapa de bits
+
+Existen varias opciones; lo primero es decidir si el programa hará una o más pasadas. Con una única pasada siempre obtendremos una imagen en blanco y negro (que después podremos colorear) Una única pasada / cuantización de colores- agrupa dos o más en colores similares corte de luminosidad - junta todos los píxeles más oscuros que un gral(?)
+
+Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso .
+
+León1.SGV - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
+
+Vectorizamos el león con las siguientes caractersticas: 
+
+- Múltiples pasadas
+- Cambiamos Colores
+- 8 pasadas
+- Guardamos como león.SGV
+- Lo subimos al github
+
+```
+
+---
+
