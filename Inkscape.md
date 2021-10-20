@@ -8,6 +8,8 @@ Las imagenes se guardan de dos maneras:
 
 - Por un lado (Raster) podeos hacer una matriz de puntos (mapa de bits) y a cada punto le asignamos un color.
 
+- Por otro lado estaria la ima
+
 Propiedades de una imagen Raster:
 
 - Resolucion: Un mapa de bits tiene un tamaño cocreto de A x B, Se puede expresar en diferentes formas:
@@ -42,7 +44,7 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 ---
 
-#### - PNJ -
+#### - JPG -
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-10-20%2011-47-44.png)
 
@@ -50,3 +52,6 @@ concreta entre A y B, las lineas horizontales suelen ser:
 
 ![](https://media.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif)
 
+#### - PNG -
+
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/kisspng-japan-samurai-warrior-ru014dnin-shu014dgun-samurai-png-photos-5a741bc67cd846.0329439615175587265114.png)
