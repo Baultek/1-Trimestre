@@ -29,7 +29,15 @@ concreta entre A y B, las lineas horizontales suelen ser:
 -2k
 -4k
 
+- Espacios de color
+- sistemas para detallar colores
+- RGB (red green blue) para pantallas
+- CYMK (cyan magenta yellow black) para imprimir
+- Colores indexados - gifs
+
+- Canal (como los tres canales de RGB) de transgregación, Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
+
+
 ```
 
 ---
-
