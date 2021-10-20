@@ -92,7 +92,7 @@ de colores - agrupa dos o más en colores similares corte de luminosidad.
 
 Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso .
 
-León1.SGV - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
+León 1.SGV - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
 
 Vectorizamos el león con las siguientes caractersticas: 
 
@@ -104,7 +104,11 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ```
 
-![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/4c000ab6-2624-44c7-bbe1-75e5bbbc22a5.jpg)
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/2a0b80d81f7e0ff1eb207b15296f2ab8ca91c5df/Imagenes%20montaje%20de%20ordenadores/Leon%201.svg)
 
 ---
+
+Leon 2.SGV Prueba las diferentes funciones de Inkscape
+
+![](
 
