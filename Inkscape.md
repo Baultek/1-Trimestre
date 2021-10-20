@@ -86,7 +86,9 @@ Copiar y pegar
 
 Clic derecho en la imagen - vectorizar mapa de bits
 
-Existen varias opciones; lo primero es decidir si el programa hará una o más pasadas. Con una única pasada siempre obtendremos una imagen en blanco y negro (que después podremos colorear) Una única pasada / cuantización de colores- agrupa dos o más en colores similares corte de luminosidad - junta todos los píxeles más oscuros que un gral(?)
+Existen varias opciones; lo primero es decidir si el programa hará una o más pasadas. Con una única pasada
+siempre obtendremos una imagen en blanco y negro (que después podremos colorear), una única pasada / cuantización
+de colores - agrupa dos o más en colores similares corte de luminosidad.
 
 Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso .
 
@@ -101,6 +103,8 @@ Vectorizamos el león con las siguientes caractersticas:
 - Lo subimos al github
 
 ```
+
+![](
 
 ---
 
