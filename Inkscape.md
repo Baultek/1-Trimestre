@@ -94,7 +94,7 @@ Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios
 
 ```
 
-##### León 1.SGV - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
+#### León 1.SVG - Después de importar el león vamos a ajustar el lienzo, para ello vamos a propiedades de documento, en tamaño vamos a ajustar página a contenido, seleccionamos la imagen y pulsamos el botón ajustar página al contenido o selección.
 
 Vectorizamos el león con las siguientes caractersticas: 
 
@@ -108,7 +108,13 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ---
 
-#### Leon 2.SGV Prueba las diferentes funciones de Inkscape
+#### Leon 1 Desagrupado.SVG
+
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/9b60e3d7bbbfcb6fd1c008a6957d55245f9cd9af/Imagenes%20montaje%20de%20ordenadores/Leon%201%20desagrupado.svg)
+
+---
+
+#### Leon 2.SVG Prueba las diferentes funciones de Inkscape
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/3bc37b06a7c95b2ca23ed56a07086eff923aecdf/Imagenes%20montaje%20de%20ordenadores/LEON.svg)
 
