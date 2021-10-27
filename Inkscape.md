@@ -152,7 +152,7 @@ Vectorizamos el león con las siguientes caractersticas:
 
 #### Logo - Underground 
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/f95b85a8fbd2c3f15e6515045b91eddb36da7216/Imagenes%20montaje%20de%20ordenadores/Logo-Underground.svg)
 
 ---
 
