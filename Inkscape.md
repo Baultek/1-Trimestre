@@ -158,6 +158,6 @@ Vectorizamos el león con las siguientes caractersticas:
 
 #### Logo - Mitsubishi
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/7f6f05984a4006c43d2c3ede12067a7dff2cc46f/Imagenes%20montaje%20de%20ordenadores/Mitsubishi_logo.svg)
 
 --
