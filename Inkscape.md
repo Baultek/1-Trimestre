@@ -122,7 +122,7 @@ Vectorizamos el león con las siguientes caractersticas:
 
 #### Leon 2.PNG
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/main/Imagenes%20montaje%20de%20ordenadores/Leon%202.png)
 
 ---
 
