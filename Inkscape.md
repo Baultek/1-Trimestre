@@ -175,7 +175,3 @@ pequeño y reduciendo la distancia.
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/b627ead99d256a5047b3df92b51a2bfc7d90f5f0/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
 
 ---
-
-#### Favor Variante
-
-![](https://raw.githubusercontent.com/Baultek/1-Trimestre/1c42025409fb2b457f9079b908c38f4b3fa84596/Imagenes%20montaje%20de%20ordenadores/Favor%20Variante.svg)
