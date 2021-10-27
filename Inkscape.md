@@ -172,6 +172,6 @@ pequeño y reduciendo la distancia.
 
 ```
 
-![](https://raw.githubusercontent.com/Baultek/1-Trimestre/b627ead99d256a5047b3df92b51a2bfc7d90f5f0/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
+![](https://raw.githubusercontent.com/Baultek/1-Trimestre/445622cb65d3710d8b24bf9a8da996598c599fb7/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
 
 ---
