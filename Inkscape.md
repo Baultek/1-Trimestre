@@ -112,3 +112,32 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/3bc37b06a7c95b2ca23ed56a07086eff923aecdf/Imagenes%20montaje%20de%20ordenadores/LEON.svg)
 
+---
+
+#### Leon 1.PNG
+
+![]()
+
+---
+
+#### Leon 2.PNG
+
+![]()
+
+---
+
+#### Leon 3.PNG
+
+![]()
+
+---
+
+#### Leon 4.PNG
+
+![]()
+
+---
+
+#### Leon 5.PNG
+
+![]()
