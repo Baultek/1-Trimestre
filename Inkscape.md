@@ -164,4 +164,14 @@ Vectorizamos el león con las siguientes caractersticas:
 
 #### Favor
 
+```
+
+Con esta imagen lo que hecho a sido poner un rectangulo sobre un circulo rojo, tambien he puesto 
+un triangulo blanco para hacer el acabado en punta ,los he separado poniendo otro triangulo mas 
+pequeño y reduciendo la distancia.
+
+```
+
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/b627ead99d256a5047b3df92b51a2bfc7d90f5f0/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
+
+---
