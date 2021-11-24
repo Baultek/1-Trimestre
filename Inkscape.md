@@ -152,6 +152,12 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ---
 
+### Acontinuacion hemos hecho unos ejercicios de diseño de logos, en los cuales hemos seguido unos pasos sacados del documento enlazado a continuacion
+
+[](https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf)
+
+---
+
 #### Logo - Underground 
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/f95b85a8fbd2c3f15e6515045b91eddb36da7216/Imagenes%20montaje%20de%20ordenadores/Logo-Underground.svg)
