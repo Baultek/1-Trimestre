@@ -154,7 +154,7 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ### Acontinuacion hemos hecho unos ejercicios de diseño de logos, en los cuales hemos seguido unos pasos sacados del documento enlazado a continuacion
 
-[](https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf)
+### [Enlace a los ejercicios](https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf)
 
 ---
 
