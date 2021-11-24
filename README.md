@@ -14,8 +14,10 @@
 
 ### INDICE
 
-##### [1. Arquitectura sobre ordenadores](https://github.com/Baultek/1-Trimestre/blob/main/Arquitectura%20de%20Ordenadores.md#arquitectura-de-ordenadores)
+#### [1.Arquitectura sobre ordenadores](https://github.com/Baultek/1-Trimestre/blob/main/Arquitectura%20de%20Ordenadores.md#arquitectura-de-ordenadores)
 
-##### [2. Mecanografia](https://github.com/Baultek/1-Trimestre/blob/main/Mecanografia.md#cursomecami-velocidad-media-a-sido-de-166ppm)
+#### [2.Mecanografia](https://github.com/Baultek/1-Trimestre/blob/main/Mecanografia.md#cursomecami-velocidad-media-a-sido-de-166ppm)
 
-##### [3. Montaje de ordenadores](https://github.com/Baultek/1-Trimestre/blob/main/Montaje%20de%20Ordenadores.md#montaje-de-del-ordenador)
+#### [3.Montaje de ordenadores](https://github.com/Baultek/1-Trimestre/blob/main/Montaje%20de%20Ordenadores.md#montaje-de-del-ordenador)
+
+#### [4.Inkscape](https://github.com/Baultek/1-Trimestre/blob/main/Inkscape.md#inkscape)
