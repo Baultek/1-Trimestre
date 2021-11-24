@@ -37,7 +37,8 @@ concreta entre A y B, las lineas horizontales suelen ser:
 - CYMK (cyan magenta yellow black) para imprimir
 - Colores indexados - gifs
 
-- Canal (como los tres canales de RGB) de transgregación, Este canal se llama canal alfa. Los PNG pueden tenerlo , los gif y los jpg no.
+- Canal (como los tres canales de RGB) de transgregación, Este canal se llama canal alfa. Los PNG pueden tenerlo,
+los gif y los jpg no.
 
 
 ```
@@ -90,7 +91,8 @@ Existen varias opciones; lo primero es decidir si el programa hará una o más p
 siempre obtendremos una imagen en blanco y negro (que después podremos colorear), una única pasada / cuantización
 de colores - agrupa dos o más en colores similares corte de luminosidad.
 
-Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso .
+Varias pasadas: nos permite hacer una imagen vectorial más compleja, con varios grises o colores.
+Esto necesita más capacidad de proceso.
 
 ```
 
