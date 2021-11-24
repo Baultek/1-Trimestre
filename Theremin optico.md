@@ -20,3 +20,12 @@ con una resistencia de 10 kilo ohmios.
 
 ### Codigo
 
+![](https://user-images.githubusercontent.com/90753267/143226680-573abe17-3f56-4f0c-9047-0d401395f0c5.png)
+
+---
+
+### Circuito
+
+![]()
+
+---
