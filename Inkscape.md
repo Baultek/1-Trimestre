@@ -158,19 +158,20 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ---
 
-#### Logo - Underground 
+### Logo - Underground 
 
-#### Paso 1
+#### Pasos
 
 ```
 
 Lo primero que hemos hecho a sido crear un circulo rojo grande despues hemos puesto
-un circulo mas pequeño blanco sobre el rojo y por ultimo un rectangulo azul con un
-texto por encima con letra (Arial)
+un circulo mas pequeño blanco sobre el rojo a continuacion un rectangulo azul con un
+texto por encima con letra (Arial) y por ultimo hemos alineado todo y asi creando el
+logo del metro.
 
 ```
 
-![](https://github.com/Baultek/1-Trimestre/blob/main/Imagenes%20montaje%20de%20ordenadores/Geometrias%20underground.png?raw=true)
+![](https://github.com/Baultek/1-Trimestre/blob/main/Imagenes%20montaje%20de%20ordenadores/Captura%20de%20pantalla%20de%202021-11-30%2009-33-14.png?raw=true)
 
 ---
 
@@ -178,13 +179,21 @@ texto por encima con letra (Arial)
 
 ---
 
-#### Logo - Mitsubishi
+### Logo - Mitsubishi
+
+```
+
+
+
+```
+
+---
 
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/7f6f05984a4006c43d2c3ede12067a7dff2cc46f/Imagenes%20montaje%20de%20ordenadores/Mitsubishi_logo.svg)
 
 ---
 
-#### Favor
+### Logo Favor
 
 ```
 
