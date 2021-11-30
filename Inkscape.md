@@ -180,9 +180,6 @@ pequeño y reduciendo la distancia.
 
 ```
 
-![]([imagen](https://user-images.githubusercontent.com/90753267/143212683-6b7f118a-5822-46ab-81ac-cf32dada89d3.png)
-
-
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/445622cb65d3710d8b24bf9a8da996598c599fb7/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
 
 ---
