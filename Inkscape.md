@@ -164,8 +164,8 @@ Vectorizamos el león con las siguientes caractersticas:
 
 ```
 
-Lo primero que hemos hecho a sido crear un circulo rojo grande despues hemos puesto
-un circulo mas pequeño blanco sobre el rojo a continuacion un rectangulo azul con un
+Lo primero que hemos hecho a sido crear un circulo rojo grande, despues hemos puesto
+un circulo mas pequeño blanco sobre el rojo, a continuacion un rectangulo azul con un
 texto por encima con letra (Arial) y por ultimo hemos alineado todo y asi creando el
 logo del metro.
 
@@ -186,7 +186,7 @@ logo del metro.
 ```
 
 Con este logo hemos puesto unos triangulos de tal manera que jugadno con la herramientas
-del alineado la de reflejar y la de duplicar hemos conseguido crear rombos y con ellos
+del alineado, la de reflejar y la de duplicar, hemos conseguido crear rombos y con ellos
 una estructura simetrica y solida creando asi el logo de mitsubishi.
 
 ```
