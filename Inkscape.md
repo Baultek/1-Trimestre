@@ -223,3 +223,16 @@ se recortan los cuadrados sobre el circulo rojo.
 
 ---
 
+### Logo Nike
+
+```
+
+Primero empezamos escojiendo la herramienta
+
+```
+
+![]()
+
+---
+
+![]()
