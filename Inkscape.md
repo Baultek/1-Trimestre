@@ -160,6 +160,20 @@ Vectorizamos el león con las siguientes caractersticas:
 
 #### Logo - Underground 
 
+#### Paso 1
+
+```
+
+Lo primero que hemos hecho a sido crear un circulo rojo grande despues hemos puesto
+un circulo mas pequeño blanco sobre el rojo y por ultimo un rectangulo azul con un
+texto por encima con letra (Arial)
+
+```
+
+![](https://github.com/Baultek/1-Trimestre/blob/main/Imagenes%20montaje%20de%20ordenadores/Geometrias%20underground.png?raw=true)
+
+---
+
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/f95b85a8fbd2c3f15e6515045b91eddb36da7216/Imagenes%20montaje%20de%20ordenadores/Logo-Underground.svg)
 
 ---
