@@ -205,13 +205,18 @@ una estructura simetrica y solida creando asi el logo de mitsubishi.
 
 ```
 
-Con esta imagen lo que hecho a sido poner un rectangulo sobre un circulo rojo, tambien he puesto 
-un triangulo blanco para hacer el acabado en punta ,los he separado poniendo otro triangulo mas 
-pequeño y reduciendo la distancia.
+Con este logo, decidi probarlo por mi cuenta y lo que hice fue poner un rectangulo sobre
+un circulo rojo, poner un triangulo blanco para hacer el acabado en punta ,los he separado
+poniendo otro triangulo mas pequeño y reduciendo la distancia.
+
+Despues lo hice siguiendo los pasos y el proceso es parecido, comenzando con un circulo rojo
+y despues poniendo 2 rectangulos a la par separados por otro rectangulo del mismo tamaño y
+cojiendo los dos, les cambias la rotacion horizontal para hacer un acabado en punta y por ultimo
+se recortan los cuadrados sobre el circulo rojo.
 
 ```
 
-![]()
+![](https://github.com/Baultek/1-Trimestre/blob/main/Imagenes%20montaje%20de%20ordenadores/Logo%20favor%20explicacion.png?raw=true)
 
 ---
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/445622cb65d3710d8b24bf9a8da996598c599fb7/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
