@@ -161,7 +161,7 @@ Vectorizamos el león con las siguientes caractersticas:
 ### Logo - Underground 
 
 #### Pasos
-
+ 
 ```
 
 Lo primero que hemos hecho a sido crear un circulo rojo grande, despues hemos puesto
