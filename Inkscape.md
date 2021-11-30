@@ -181,6 +181,8 @@ logo del metro.
 
 ### Logo - Mitsubishi
 
+#### Pasos
+
 ```
 
 Con este logo hemos puesto unos triangulos de tal manera que jugadno con la herramientas
@@ -188,8 +190,6 @@ del alineado la de reflejar y la de duplicar hemos conseguido crear rombos y con
 una estructura simetrica y solida creando asi el logo de mitsubishi.
 
 ```
-
----
 
 ![](https://github.com/Baultek/1-Trimestre/blob/main/Imagenes%20montaje%20de%20ordenadores/Mitshubishi.png?raw=true)
 
@@ -201,6 +201,8 @@ una estructura simetrica y solida creando asi el logo de mitsubishi.
 
 ### Logo Favor
 
+#### Pasos
+
 ```
 
 Con esta imagen lo que hecho a sido poner un rectangulo sobre un circulo rojo, tambien he puesto 
@@ -209,6 +211,9 @@ pequeño y reduciendo la distancia.
 
 ```
 
+![]()
+
+---
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/445622cb65d3710d8b24bf9a8da996598c599fb7/Imagenes%20montaje%20de%20ordenadores/Favor.svg)
 
 ---
