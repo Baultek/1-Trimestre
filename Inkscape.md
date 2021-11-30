@@ -189,6 +189,10 @@ logo del metro.
 
 ---
 
+![](https://github.com/Baultek/1-Trimestre/blob/main/Imagenes%20montaje%20de%20ordenadores/Mitshubishi.png?raw=true)
+
+---
+
 ![](https://raw.githubusercontent.com/Baultek/1-Trimestre/7f6f05984a4006c43d2c3ede12067a7dff2cc46f/Imagenes%20montaje%20de%20ordenadores/Mitsubishi_logo.svg)
 
 ---
