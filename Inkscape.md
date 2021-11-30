@@ -183,7 +183,9 @@ logo del metro.
 
 ```
 
-
+Con este logo hemos puesto unos triangulos de tal manera que jugadno con la herramientas
+del alineado la de reflejar y la de duplicar hemos conseguido crear rombos y con ellos
+una estructura simetrica y solida creando asi el logo de mitsubishi.
 
 ```
 
