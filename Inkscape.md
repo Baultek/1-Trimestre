@@ -227,7 +227,9 @@ se recortan los cuadrados sobre el circulo rojo.
 
 ```
 
-Primero empezamos escojiendo la herramienta
+Primero empezamos escojiendo la herramienta para crear curvas de Bezier y lineas rectas y he
+creado un cuadrilatero con el logo de referencia, despues cojemos la herramienta de edicion
+de nodos y comenzamos a hacer una figura semejante a la del logo
 
 ```
 
